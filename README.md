@@ -24,7 +24,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+leaderboard = FitbitLeaderboard::Client.new('your OAuth token')
+leaderboard.aggregate_friends_steps # => 100_000
+```
 
 ## Development
 
