@@ -1,5 +1,7 @@
 # FitbitLeaderboard
 
+[![Build Status](https://travis-ci.org/sarahhay7/fitbit_leaderboard.svg?branch=master)](https://travis-ci.org/sarahhay7/fitbit_leaderboard)
+
 This leaderboard will allow you to track your friends' steps on Fitbit.
 
 ## Installation
